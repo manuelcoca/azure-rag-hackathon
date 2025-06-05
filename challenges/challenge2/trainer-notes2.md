@@ -47,6 +47,18 @@ Introduce participants to Azure AI Foundry and implement basic RAG functionality
 
 ### Additional Training Points
 
+Deployments:
+
+- AI Foundry and model deployment can be different, if model is not available in users foundry location
+- In this case, data will be processed in different region
+- Deployed model is hosted and managed by Azure Machine Learning service.
+
+Foundry deployment types:
+
+- Global: Process anywhere, highest throughput, best availability
+- Data Zone: Process within specific zones (EU/US), balanced quotas
+- Regional: Process in specific region, lowest latency
+
 Serverless vs Managed Compute:
 
 - Serverless: Auto-scaling, pay-per-use, ideal for RAG's variable workloads
