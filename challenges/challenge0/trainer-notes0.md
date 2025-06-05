@@ -38,3 +38,31 @@ Participants should be able to:
 - Focus on conceptual understanding rather than implementation
 - Encourage discussion about real-world applications
 - Emphasize the importance of data preparation in RAG solutions
+
+RAG Strengths:
+
+- Real-time, up-to-date information
+- Flexible knowledge updates
+- Better factual accuracy
+- Good for broad knowledge tasks
+
+RAG Limitations:
+
+- Higher latency
+- More complex implementation
+- Higher inference costs
+- Not ideal for specialized tasks
+
+Fine-tuning Strengths:
+
+- Specialized domain expertise
+- Lower inference latency
+- Better style/tone control
+- Consistent responses
+
+Fine-tuning Limitations:
+
+- Requires retraining for updates
+- Higher initial training costs
+- Can hallucinate outside domain
+- Static knowledge base
