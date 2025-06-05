@@ -16,3 +16,9 @@ pip install azure-storage-blob "unstructured[pdf]"
 ### Embedding model missing
 
 - Embedding model 'text-embedding-ada-002' was missing and not deployed in Azure AI Foundry -> deploy manually
+
+### AI-Search index "itsarag-ch3-001"
+
+- Search index must be created manually called "itsarag-ch3-001"
+
+![Search Index Fields](search-index-fields.png)
