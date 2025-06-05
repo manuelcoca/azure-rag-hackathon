@@ -43,4 +43,3 @@ Create a multi-agent system that can handle multiple data sources (documents and
 - Explain agent coordination concepts
 - Help with SQL connectivity issues
 - Guide through LangGraph implementation
-- Emphasize error handling between agents

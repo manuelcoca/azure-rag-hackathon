@@ -45,4 +45,4 @@ Enhance RAG implementation to handle complex documents with tables, images, and 
 - Explain the importance of document structure
 - Highlight multimodal capabilities
 - Guide through custom module usage
-- Monitor processing times and resource usage
+- Document Intelligence works better with markdown than with JSON
