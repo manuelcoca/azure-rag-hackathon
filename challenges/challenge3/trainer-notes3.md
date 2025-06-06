@@ -40,6 +40,6 @@ Transition from UI-based implementation to code-based RAG solution using Python 
 ### Trainer Notes
 
 - Help with Python environment issues
-- Explain LangChain concepts clearly
+- Explain LangChain concepts 
 - Compare results with Challenge 2
-- Emphasize error handling and best practices
+- TODO: explain token usage with chunking
